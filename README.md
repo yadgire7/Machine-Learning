@@ -1,2 +1,2 @@
 # Machine-Learning
-Contains notes on concepts of ML and their applications.
+Contains notes and programs (python notebooks) on concepts of ML and their applications.
